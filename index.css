@@ -28,3 +28,7 @@ body {
 /* above same as below */
 
 .bigItem {
+  grid-row: 2 / 4;
+  grid-column: 2 / 4;
+}
+}
