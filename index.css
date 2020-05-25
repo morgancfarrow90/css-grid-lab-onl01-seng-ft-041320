@@ -9,9 +9,7 @@ body {
   width: 100vw;
   display: grid;
   grid-template: 1fr 1fr 1fr 1fr / 1fr 1fr 1fr;
-  grid-auto-rows: 50px;
   grid-gap: 5px
-
 }
 
 .grid-item {
