@@ -32,6 +32,10 @@ body {
   grid-column: 2 / 4;
 }*/
 
-/* above same as below */
+/* above same as below 
+
+grid-area: <grid-row-start> / <grid-column-start> / <grid-row-end> / <grid-column-end>
+
+*/
 
 
